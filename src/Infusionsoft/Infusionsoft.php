@@ -188,6 +188,7 @@ class Infusionsoft
         return $this->redirectUri;
     }
 
+
     /**
      * @param string $redirectUri
      * @return string
